@@ -51,4 +51,3 @@ Pour bien utiliser ce programme, il faut suivre les étapes suivantes:
 
 Charles Parisi - charles.parisi62@gmail.com
 Nicolas Marra - nicolasmarra12@gmail.com
-# chat
