@@ -45,7 +45,7 @@ Pour supprimer les fichiers de compilation, il faut utiliser la commande suivant
 
 Pour bien utiliser ce programme, il faut suivre les étapes suivantes:
 
-1- Comme dans tout programme serveur/client, il faut exécuter le serveur avant les clients.
+1- Comme dans tout programme client/serveur, il faut exécuter le serveur avant les clients.
 2- Pour établir la connexion, les clients doivent se connecter au numéro de port du serveur.
 
 ### Auteurs
