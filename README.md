@@ -40,7 +40,7 @@ Pour supprimer les fichiers de compilation, il faut utiliser la commande suivant
 
 - Envoyer des messages publics: un message ne correspondant pas à ces commandes sera envoyé publiquement (à tous les utilisateurs).
 
-#### Comment utiliser correctement ce programme
+### Comment utiliser correctement ce programme
 
 Pour bien utiliser ce programme, il faut suivre les étapes suivantes:
 
