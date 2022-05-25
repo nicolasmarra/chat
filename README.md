@@ -1,7 +1,7 @@
-# Projet/TP - Chat (Programmation de sockets en C)
+# Projet/TP - Tchat (Programmation de sockets en C)
 
-Ceci est un chat avec un serveur centralisé et muti-utilisateurs, chaque utilisateur a un nom d'utilisateur.
-Nous avons dévéloppé ce chat à l'aide de sockets.
+Ceci est une messagerie avec un serveur centralisé et muti-utilisateurs, chaque utilisateur a un nom d'utilisateur.
+
 
 ## Exécution du programme
 
