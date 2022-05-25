@@ -36,7 +36,9 @@ Pour supprimer les fichiers de compilation, il faut utiliser la commande suivant
 	
 - Afficher les utilisateurs en ligne: /online
 
-- Envoyer des messages privés: /send message -u"username" (sans espace)
+- Envoyer des messages privés: /send message -uusername (sans espace)
+	exemple: /send je t'aime -unico
+	username = nico
 
 - Envoyer des messages publics: un message ne correspondant pas à ces commandes sera envoyé publiquement (à tous les utilisateurs).
 
