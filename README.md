@@ -25,11 +25,11 @@ Pour supprimer les fichiers de compilation, il faut utiliser la commande suivant
 
 #### Serveur
 
-./serveur <port_local>
+./serveur port_local
 
 #### Client 
 
-./client <adresse-IP> <port> <username>
+./client @adresse-IP port_local username
 
 
 - Déconnexion:	/quit
